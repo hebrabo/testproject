@@ -1,0 +1,1 @@
+Documento de prueba para la Instalación de Git en Windows y Configuración con GitHub
